@@ -126,5 +126,6 @@ Donate
 ------
 
 If this library helped you out feel free to donate.
-![](docs/20191118155446.jpg)
-![](docs/20191118155438.png)
+
+![](20191118155446.jpg)
+![](20191118155438.png)
