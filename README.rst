@@ -122,10 +122,5 @@ Quick Start
     klines = client.get_historical_klines("NEOBTC", Client.KLINE_INTERVAL_1WEEK, "1 Jan, 2017")
 
 ![Input Image](https://github.com/l976308589/33-BinanceAPI/blob/master/docs/20191118155438.png)
-![Output Image](./data-images/image2new.jpg)
-Donate
-------
-If this library helped you out feel free to donate.
-<div id="Donate"></div>
 
 
