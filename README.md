@@ -1,10 +1,10 @@
-================================
+
 使用Python封装binanceAPI
-================================
+
+有任何开发、量化需求，请联系976308589@qq.com
 
 Note
 ----
-有任何开发、量化需求，请联系976308589@qq.com
 
 I am working on a python3 version with async support to remove legacy dependencies and their related issues.
 
@@ -128,8 +128,4 @@ Quick Start
 ----
 
 ![Input Image](https://github.com/l976308589/33-BinanceAPI/blob/master/docs/20191118155438.png)
-
-
-
-
-
+![Input Image](https://github.com/l976308589/33-BinanceAPI/blob/master/docs/20191118155446.jpg)
