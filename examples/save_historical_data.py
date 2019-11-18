@@ -3,6 +3,7 @@ import dateparser
 import pytz
 import json
 
+
 from datetime import datetime
 from binance.client import Client
 
