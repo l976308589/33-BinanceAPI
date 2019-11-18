@@ -121,9 +121,11 @@ Quick Start
     # fetch weekly klines since it listed
     klines = client.get_historical_klines("NEOBTC", Client.KLINE_INTERVAL_1WEEK, "1 Jan, 2017")
 
-
+![Input Image](./data-images/image2.jpg)
+![Output Image](./data-images/image2new.jpg)
 Donate
 ------
 If this library helped you out feel free to donate.
-![Donate Image](./docs/20191118155438.png)
-![Donate Image](./docs/20191118155446.jpg)
+<div id="Donate"></div>
+
+
