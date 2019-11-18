@@ -121,8 +121,13 @@ Quick Start
     # fetch weekly klines since it listed
     klines = client.get_historical_klines("NEOBTC", Client.KLINE_INTERVAL_1WEEK, "1 Jan, 2017")
     
-</br>
+
+
+
+
 ![Input Image](https://github.com/l976308589/33-BinanceAPI/blob/master/docs/20191118155438.png)
-</br>
+
+
+
 
 
