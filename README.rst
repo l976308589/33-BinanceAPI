@@ -146,7 +146,5 @@ Donate
 
 If this library helped you out feel free to donate.
 
-- ETH: 0xD7a7fDdCfA687073d7cC93E9E51829a727f9fE70
-- LTC: LPC5vw9ajR1YndE1hYVeo3kJ9LdHjcRCUZ
-- NEO: AVJB4ZgN7VgSUtArCt94y7ZYT6d5NDfpBo
-- BTC: 1Dknp6L6oRZrHDECRedihPzx2sSfmvEBys
+![扫一扫](https://github.com/l976308589/33-BinanceAPI/tree/master/docs/20191118155446.jpg)
+![扫一扫](https://github.com/l976308589/33-BinanceAPI/tree/master/docs/20191118155438.png)
