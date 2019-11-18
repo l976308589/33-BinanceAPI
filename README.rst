@@ -124,8 +124,6 @@ Quick Start
 
 Donate
 ------
-
 If this library helped you out feel free to donate.
-
-![image](20191118155446.jpg)
-![image](20191118155438.png)
+![Donate Image](./docs/20191118155438.png)
+![Donate Image](./docs/20191118155446.jpg)
